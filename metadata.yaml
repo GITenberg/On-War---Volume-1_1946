@@ -1,0 +1,35 @@
+_repo: On-War---Volume-1_1946
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Graham, J. J. (James John)
+    alias: Graham, James John
+    gutenberg_agent_id: '4650'
+    url: http://www.gutenberg.org/2009/agents/4650
+creator:
+  author:
+    agent_name: Clausewitz, Carl von
+    aliases:
+    - Klausewitz, Karl von
+    - Clausewitz, Karl von
+    birthdate: 1780
+    deathdate: 1831
+    gutenberg_agent_id: '757'
+    url: http://www.gutenberg.org/2009/agents/757
+    wikipedia: http://en.wikipedia.org/wiki/Carl_von_Clausewitz
+description: ''
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1946'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War'
+- !lcc 'U'
+- !lcsh 'Military art and science'
+- GITenberg
+title: On War — Volume 1
+url: http://www.gutenberg.org/ebooks/1946
