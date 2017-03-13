@@ -1,11 +1,14 @@
 _repo: On-War---Volume-1_1946
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Graham, J. J. (James John)
     alias: Graham, James John
     gutenberg_agent_id: '4650'
     url: http://www.gutenberg.org/2009/agents/4650
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Clausewitz, Carl von
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/757
     wikipedia: http://en.wikipedia.org/wiki/Carl_von_Clausewitz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1946#On-War---Volume-1
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
 identifiers:
